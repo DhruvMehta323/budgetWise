@@ -96,7 +96,7 @@ Make sure the following are installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/imandeol/budgetWise
+   git clone https://github.com/DhruvMehta323/budgetWise
    cd budgetWise
    ```
 2. **Install dependencies**
